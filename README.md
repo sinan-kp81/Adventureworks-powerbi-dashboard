@@ -183,6 +183,3 @@ Identifies geographic performance and regional demand patterns.
 🔗 *Connect with me on LinkedIn*
 
 ---
-
-⭐ If you like this project, don’t forget to **star the repository**!
-
